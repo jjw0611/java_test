@@ -20,6 +20,8 @@ public class Hello {
         int var4=(int)(var3*var2);
         System.out.println(var4);
 
+
+
         int x=10;
         int y=20;
         int z = (++x) + (y--);
