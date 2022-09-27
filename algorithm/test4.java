@@ -1,8 +1,24 @@
 package algorithm;
 
 public class test4 {
-    public int main(String s){
-        return Integer.parseInt(s);
+    public long main(int a, int b){
+        long answer = 0;
+        if(a <= b){
+            for(int i = a; i <= b; i++){
+                answer += i;
+                //answer = answer + i
+            }
+        }else { //(a > b)
+            for(int i = b; i <= a; i++){
+                answer += i;
+            }
+        }
+        return answer;
     }
 }
-//parseInt() : 문자열 Stirng타입의 숫자를 int타입으로 변환해주는 메서드
+//a=3 b=5 일경우
+//if문에 의해 3 <= 5
+//내부 for문 실행에 따라 i가 3부터 5보다 작거나같을때까지 반복
+//a=5 b=3 일경우
+//else문 5 > 3
+//

@@ -3,17 +3,8 @@ package algorithm;
 import java.util.Arrays;
 
 public class test5 {
-    //정수 배열 numbers 매개변수
-    public int main(int[] numbers) {
-
-        int sum = 45; //0~9까지의 합
-
-        for (int i = 0; i < numbers.length; i++) { //배열의 numbers 길이만큼 반복
-           sum -= numbers[i];
-           //sum = sum - numbers[i]
-           //총 합 45에서 배열에 들어가있는 각 값을 하나씩 빼준다
-           //왜냐면 우리는 배열numbers에 찾을수 없는 모든값의 합을 구하면되니까!
-        }
-        return sum;
+    public int main(String s){
+        return Integer.parseInt(s);
     }
 }
+//parseInt() : 문자열 Stirng타입의 숫자를 int타입으로 변환해주는 메서드
