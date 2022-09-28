@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b77bf761-eb2b-4feb-a418-fedb65f0d690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/test15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/test16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/test17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/test18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/test19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/test20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/test21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/test22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/test23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/test24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/test25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/test26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/test27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/test28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/test29.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chap01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chap01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chap01/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chap01/Hello.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chap01/algorithm/test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chap01/algorithm/test3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +128,7 @@
       <workItem from="1664004418826" duration="12000" />
       <workItem from="1664175626260" duration="13708000" />
       <workItem from="1664237241924" duration="27928000" />
+      <workItem from="1664347603180" duration="10262000" />
     </task>
     <servers />
   </component>
