@@ -36,9 +36,8 @@ public class Board extends Timestamped{ //생성, 수정 시간 자동으로 알
     private String contents;
 
     //매개변수 생성자
-    //파라미터로 BoardRequestDto이라는 데이터타입의 참조변수 requestDto를 받는다
-    //여기서 BoardRequestDto는 클래스이자 데이터타입이다
-    //메인 메서드에서 BoardRequestDto를 객체로 만들어서 사용!
+    //클라이언트로 부터 값을 받은 requestDto를 Board 즉, Entity에 넣어주기 위해서
+    //BoardRequestDto를 매개변수로 하는 매개변수 생성자 생성0
     public Board(BoardRequestDto requestDto){
         this.title = requestDto.getTitle();
         this.password = requestDto.getPassword();

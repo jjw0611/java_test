@@ -13,19 +13,11 @@ public class BoardRequestDto {
     private String password;
     private String contents;
 
+    //클라이언트로 받은 입력값들을 BoardRequestDto에 저장하기 위함
     public BoardRequestDto(String title, String username, String password, String contents) {
         this.title = title;
         this.username = username;
         this.password = password;
         this.contents = contents;
     }
-
-
-    //@Getter
-    //public class RequestRegistDto
-    //private String title;
-    //    private String username;
-    //    private int password;
-    //    private String contents;
-
 }
